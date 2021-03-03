@@ -1,4 +1,4 @@
-/*WAP power() which raise a number m to a power n. 
+/*Write a function power() which raise a number m to a power n. 
 The function takes double value of m and integer value of n and returns the result. 
 Use the default value of n as 2.*/
 #include <iostream>
