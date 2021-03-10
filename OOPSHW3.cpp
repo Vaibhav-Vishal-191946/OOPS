@@ -1,3 +1,4 @@
+//Program to show that the effect of default arguments can be alternatively achieved by overloading.
 #include<iostream>
 using namespace std;
 float power(float,int);
