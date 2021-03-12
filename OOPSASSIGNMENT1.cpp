@@ -1,3 +1,4 @@
+//WAP using recursive function to calculate the factorial of a given number.
 #include <iostream>
 using namespace std;
 int factorial(int);
