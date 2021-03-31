@@ -1,3 +1,5 @@
+/*Write a class ACCOUNT that represents your bank account and then use it.
+The class should allow you to deposit money, withdraw money, calculate interest, send a message if you have insufficient balance.*/
 #include<iostream>
 #include<cstring>
 #include<cmath>
