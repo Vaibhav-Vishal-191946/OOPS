@@ -1,3 +1,4 @@
+//Write a class string that can be used to store strings, add strings, equate strings, output strings.
 #include<iostream>
 #include<cstring>
 using namespace std;
